@@ -1,0 +1,17 @@
+{
+  "name": "bot-example",
+  "version": "1.0.0",
+  "description": "Bot API example",
+  "main": "example.js",
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nobodyedits/bot-example.git"
+  },
+  "author": "NE team",
+  "dependencies": {
+    "ne-bot-api": "^0.1.1"
+  }
+}
